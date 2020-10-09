@@ -14,8 +14,9 @@ $component-spacing-tablet: 80px;
 $component-spacing-mobile: 40px;
 $gutter-width: 24px;
 
-$color-brand: #0d8eff;
-$color-accent: #f96417;
+$color-green: #93D400;
+$color-brand: $color-green;
+$color-accent: $color-green;
 $color-background: #fff;
 $color-contrast: #414751;
 $color-text: $color-contrast;
@@ -24,7 +25,7 @@ $color-border: #d8d8d8;
 $color-red: #ff0000;
 
 $color-background-light: #f2f6fe;
-$color-background-dark: #091a41;
+$color-background-dark: #000000;
 $color-background-hero: $color-brand;
 
 $heading-selectors: 'h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6';
